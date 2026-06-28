@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">An aspiring programmer still studying.</p>
+<p align="left">Just a CS student.</p>
 
 ###
 
